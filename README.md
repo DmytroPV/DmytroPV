@@ -7,7 +7,7 @@
 You can check out the repositories with my code. I want to note that I continue to train and improve.
 
 - I have a certificate and experience as a front-end developer.
-(HTML5, CSS, SCSS, JavaScript, React (hooks), Styled-components, Redux-toolkit, Token, Cookie, Node, Npm, Axios, Api, GitHub, Swagger, VSCode)
+(HTML5, CSS, SCSS, JavaScript, React (hooks), Styled-components, Redux-toolkit, Token, Cookie, JSON, Node, Npm, Axios, Api, GitHub, Swagger, VSCode, Figma)
 
 - Other skills: WordPress, Woocommerce, API Payment Systems, ♦ Meta Business Suite, Commerce, Advertising, Feeds, Group Management ♦ 
               Digital Marketing ♦ Video Editor MP4 Movavi, Voiceover, Intro, Outro, Sound-Video Effects ♦ Bot Framework Composer ♦ 
