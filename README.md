@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DmytroPV
-- 👀 I’m currently looking for a job. It would be interesting to work on modern technological projects (innovations, startups, meta(VR/AR))
-- 🌱 I'm currently improving my front-end development skills and finishing work on my "Pet Project" SlimMom...
+- 👀 I’m currently looking for a job. It would be interesting to work on modern technological projects (innovations, startups)
+- 🌱 I'm currently refining my front-end development skills while continuing to work on my "Pet Project"...
       I also study the basics of creating startups and progressive methods of developing new ideas
 - 📫 I'm in Ukraine
 
