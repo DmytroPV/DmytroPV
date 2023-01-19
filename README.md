@@ -2,7 +2,7 @@
 - 👀 I’m currently looking for a job. It would be interesting to work on modern technological projects (innovations, startups)
 - 🌱 I'm currently refining my front-end development skills while continuing to work on my "Pet Projects"...
       I also study the basics of creating startups and progressive methods of developing new ideas
-- 📫 I'm in Ukraine
+- 📫 I'm from Ukraine
 
 You can check out the repositories with my code. I want to note that I continue to train and improve.
 
