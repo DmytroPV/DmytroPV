@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DmytroPV
+- 👋 Hi, I’m Dmytro
 - 👀 It would be interesting to work on modern technological projects (innovations, startups)
 - 🌱 Frontend Developer with 2+ years of experience in building responsive web applications using React, JavaScript, and Tailwind CSS. Proficient in Web3 technologies (Thirdweb, NFT, DAO) and Google Cloud tools (BigQuery ML, Vertex AI). Skilled in developing trading strategies with Pine Script and integrating APIs for payment systems and blockchain solutions.
 - 📫 I'm from Ukraine
